@@ -68,5 +68,4 @@ Average Order Value = DIVIDE([Total Sales], [Orders], 0)
 ```
 Then add KPI cards, a monthly line chart, category donut chart, regional bar chart and slicers for date, region and category.
 
-## GitHub
-Create a repository named `superstore-sales-dashboard`, upload these files, and add a screenshot of the running dashboard to your README.
+
